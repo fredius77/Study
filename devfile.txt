@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 My first time i have ever used this program!
+
+Hello word!
 
