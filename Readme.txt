@@ -1,1 +1,2 @@
-It's my first i have ever use git!
+It's my first commit that i have ever use git!
+Hello World!
