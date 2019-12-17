@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD>>>>>>>>>>>>>>>>
 My first time i have ever used this program!
 New changes for testing how it will work.
 Hello word!
