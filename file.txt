@@ -1,1 +1,0 @@
-file that was created for testing and try to use git in the real life.
